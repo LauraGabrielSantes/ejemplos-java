@@ -1,3 +1,7 @@
+/*Programa que genera 200 monedas e indica el numero de monedas verdaderas o falsas que se han generado, 
+ * teniendo un 10% de probabilidad de generar monedas falsas
+ * Por: Laura Gabriel Santes
+ * 26-09-21*/
 package Monedas;
 
 public class Principal {
